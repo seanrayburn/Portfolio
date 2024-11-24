@@ -23,7 +23,7 @@ For an external SCORM testing tool, visit [Scormtester in the Google Code Archiv
 
 
 
-# Original Brightspot "[About SCORM]"(https://community.d2l.com/brightspace/kb/articles/5400-about-scorm)
+# Original Brightspot "[About SCORM](https://community.d2l.com/brightspace/kb/articles/5400-about-scorm)"
 
 SCORM stands for Sharable Content Object Reference Model. It is a collection of standards that outlines how online learning materials and learning management systems should interact with one another.
 
