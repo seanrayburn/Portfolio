@@ -9,7 +9,7 @@ If you have more than one blog, you can view each blog’s activity independentl
 3. Click “See everything” on the pop-up.
 
 ## Table of Contents
-- [Notification Settings](https://help.tumblr.com/web-notifications/#notification-settings}
+- [Notification Settings](https://help.tumblr.com/web-notifications/#notification-settings)
 - [Email Notifications](https://help.tumblr.com/web-notifications/#email-notifications)
 - [Post-Level Notification Controls](https://help.tumblr.com/web-notifications/#post-notifications)
 - [Subscribe to a Tumblr](https://help.tumblr.com/web-notifications/#subscribe)
