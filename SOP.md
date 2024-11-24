@@ -13,6 +13,6 @@ This Standard Operating Procedure (SOP) guides Google Workspace administrators t
 
 ## Resources
  ### Google Workspace Admin Help 
-- [Add an account for a new user] (https://support.google.com/a/answer/33310?hl=en)
-- [Delete or remove a user from your organization] (https://support.google.com/a/answer/33314?sjid=1833291049563931691-NC)
-- [How to make a user an admin] (https://support.google.com/a/answer/172176?sjid=1833291049563931691-NC)
+- [Add an account for a new user](https://support.google.com/a/answer/33310?hl=en)
+- [Delete or remove a user from your organization](https://support.google.com/a/answer/33314?sjid=1833291049563931691-NC)
+- [How to make a user an admin](https://support.google.com/a/answer/172176?sjid=1833291049563931691-NC)
