@@ -17,7 +17,7 @@ Use a comma when there is a tag or responsive action following the dialogue.
 - Example: “I can’t go tonight<ins>,”</ins> he sighed. 
 
 
-<ins>Note</ins>, if dialogue relies on punctuation to add meaning or emphasis, such as a question mark or exclamation point, do not add an additional comma.
+<ins>Note</ins>: if dialogue relies on punctuation to add meaning or emphasis, such as a question mark or exclamation point, do not add an additional comma.
 
 - Example 1: “Are you going to dinner with us<ins>?”</ins> she asked. 
 
@@ -57,7 +57,7 @@ Use italics to show emphasis or deeper meaning, internal monologue, or implied d
 - Example: That was supposed to be my drink
 
 
-Note: Don’t bold your text or use all-caps to emphasize text.
+<ins>Note</ins>: Don’t bold your text or use all-caps to emphasize text.
 
 
 ## Parentheses vs. Em Dash
