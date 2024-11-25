@@ -17,6 +17,7 @@ Style Guide: AP Style
 - Bend at your hips and sit into the movement. 
 
 <ins>Cue</ins>: Imagine a string from the top of your head to the floor – follow the path of that string when you sit into the set-up.
+
 4. Grip the bar with a “mixed grip” (one hand over and one under). 
 
 <ins>Cue:</ins> Maintain relaxed arms when you find your grip. 
