@@ -15,9 +15,11 @@ Style Guide: AP Style
 - Tucking your lats by squeezing an imaginary orange under your armpit. 
 - Inhaling into your lower rib cage and holding.
 - Bend at your hips and sit into the movement. 
-	<ins>Cue<ins/>: Imagine a string from the top of your head to the floor – follow the path of that string when you sit into the set-up.
-5. Grip the bar with a “mixed grip” (one hand over and one under). 
-	<ins>Cue:<ins/> Maintain relaxed arms when you find your grip. 
+
+<ins>Cue<ins/>: Imagine a string from the top of your head to the floor – follow the path of that string when you sit into the set-up.
+4. Grip the bar with a “mixed grip” (one hand over and one under). 
+
+<ins>Cue:<ins/> Maintain relaxed arms when you find your grip. 
 
 ## Movement: 
 1. Derive power by pressing your heels through the floor as you begin to straighten your legs to lift the bar.  
