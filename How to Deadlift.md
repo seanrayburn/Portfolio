@@ -12,7 +12,7 @@ Style Guide: AP Style
 1. Position feet under the bar so it rests against your ankle/lower shin.
 2. Stand with your feet shoulder-width apart.
 3. Maintain a neutral, flat back by:
-4. Tucking your lats by squeezing an imaginary orange under your armpit. 
+- Tucking your lats by squeezing an imaginary orange under your armpit. 
 - Inhaling into your lower rib cage and holding.
 - Bend at your hips and sit into the movement. 
 	<ins>Cue<ins/>: Imagine a string from the top of your head to the floor – follow the path of that string when you sit into the set-up.
