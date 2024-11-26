@@ -8,7 +8,7 @@ This Standard Operating Procedure (SOP) guides Google Workspace administrators t
 ### Step 2: In the Admin console, select > "Menu" > "Directory" > "Users". 
 ### Step 3: Click >Invite new user/Add new user.
 ### Step 4: Add the new user's information.
-  ### <ins>Note:</ins> Use the format FirstInitial.LastName@domain.com.
+### <ins>Note:</ins> Use the format FirstInitial.LastName@domain.com.
 ### Step 5: Click "Add new user."
 
 ## Resources
