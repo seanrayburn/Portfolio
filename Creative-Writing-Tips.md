@@ -17,7 +17,7 @@ Use a comma when there is a tag or responsive action following the dialogue.
 - Example: “I can’t go tonight<ins>,”</ins> he sighed. 
 
 
-<ins>Note</ins>: if dialogue relies on punctuation to add meaning or emphasis, such as a question mark or exclamation point, do not add an additional comma.
+<ins>Note</ins>: If dialogue relies on punctuation to add meaning or emphasis, such as a question mark or exclamation point, do not add an additional comma.
 
 - Example 1: “Are you going to dinner with us<ins>?”</ins> she asked. 
 
