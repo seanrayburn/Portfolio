@@ -13,11 +13,11 @@ When you use the new SCORM solution, you can still:
 - Reuse SCORM objects in multiple locations to optimize space.
 - Use Import/Export/Copy Components to add a part or a whole course containing SCORM objects to another course in Brightspace.
 
-**Note**: The new and legacy SCORM solutions can be used at the same time. We recommend not using both solutions in the same course as it can cause confusion and be difficult to administer both. 
+**Note**: The new and legacy SCORM solutions can be used at the same time. However, we recommend not using both solutions in the same course as it can cause confusion and be difficult to administer both. 
 
-Brightspace is SCORM 1.2 and SCORM 2004 compliant. SCORM can be used with mobile devices if the SCORM object works on mobile devices. Access the non-mobile version of your site to make best use of the SCORM object.
+Brightspace is SCORM 1.2 and SCORM 2004 compliant. SCORM can be used with mobile devices if the SCORM object works on mobile devices. Access the non-mobile version of your site to make the best use of the SCORM object.
 
-For additional technical details about SCORM, visit [Technical Overview of SCORM Standard](https://scorm.com/scorm-explained/technical-scorm/). Because each authoring tool may interpret SCORM standards differently. Consider viewing any SCORM-related documentation resources provided by your third- party authoring tool.
+For additional technical details about SCORM, visit [Technical Overview of SCORM Standard](https://scorm.com/scorm-explained/technical-scorm/). Because each authoring tool may interpret SCORM standards differently, consider viewing any SCORM-related documentation resources provided by your third-party authoring tool.
 
 For an external SCORM testing tool, visit [Scormtester in the Google Code Archive](https://code.google.com/archive/p/scormtester/).
 
