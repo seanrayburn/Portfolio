@@ -12,7 +12,7 @@ If you have more than one blog, you can view each blog’s activity independentl
 - [Notification Settings](https://help.tumblr.com/web-notifications/#notification-settings)
 - [Email Notifications](https://help.tumblr.com/web-notifications/#email-notifications)
 - [Post-Level Notification Controls](https://help.tumblr.com/web-notifications/#post-notifications)
-- [Subscribe to a Tumblr](https://help.tumblr.com/web-notifications/#subscribe)
+- [Subscribe to a Tumblr Blog](https://help.tumblr.com/web-notifications/#subscribe)
 
 ## Notification and Email Settings
 In your blog notification settings, you can change your notification settings for:
