@@ -32,5 +32,5 @@ Style Guide: AP Style
   a. Note: Do not inhale or exhale during this portion to maintain a neutral back.
 2. Sit into the descending movement until the bar reaches the floor.
 
-<ins>Cue</ins>: Focus again on moving your legs and upper body together as one unit, following the same path down as your body did going up. Slowly follow the unified path your upper and lower body did during the initial movement to return the bar safely. 
+<ins>Cue</ins>: Follow the same unified path down that your body did going up to maintain control and ensure safety.
 
