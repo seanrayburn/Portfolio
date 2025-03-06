@@ -16,19 +16,19 @@ Style Guide: AP Style
 * Inhaling into your lower rib cage and holding.
 * Bend at your hips and sit into the movement. 
 
-<ins>Cue</ins>: Imagine a string from the top of your head to the floor. Follow the path of that string when you sit into the set-up.
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Cue</ins>: Imagine a string from the top of your head to the floor. Follow the path of that string when you sit into the set-up.
 
 4. Grip the bar with a “mixed grip” (one hand over and one under). 
 
-<ins>Cue:</ins> Maintain relaxed arms when you find your grip. 
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Cue:</ins> Maintain relaxed arms when you find your grip. 
 
 ## Movement: 
 1. Derive power by pressing your heels through the floor as you begin to straighten your legs to lift the bar.  
 
-<ins>Cue</ins>: When you straighten your legs and upper body, consider them moving together as one unit, instead of as two individual movements. 
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Cue</ins>: When you straighten your legs and upper body, consider them moving together as one unit, instead of as two individual movements. 
 2. Begin to exhale slowly when you have lifted the bar off the floor. 
 
-<ins>Cue</ins>: To maintain a neutral back position, hold your breath in until the full weight of the bar is off the floor. 
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Cue</ins>: To maintain a neutral back position, hold your breath in until the full weight of the bar is off the floor. 
 3. Lock your knees at the top of the movement.
 
 ## Return or Deload the Bar: 
@@ -36,5 +36,5 @@ Style Guide: AP Style
   a. Note: Do not inhale or exhale during this portion to maintain a neutral back.
 2. Sit into the descending movement until the bar reaches the floor.
 
-<ins>Cue</ins>: Focus again on moving your legs and upper body together as one unit, following the same path down as your body did going up. Slowly follow the unified path your upper and lower body did during the initial movement to return the bar safely. 
+&nbsp;&nbsp;&nbsp;&nbsp;<ins>Cue</ins>: Focus again on moving your legs and upper body together as one unit, following the same path down as your body did going up. Slowly follow the unified path your upper and lower body did during the initial movement to return the bar safely. 
 
