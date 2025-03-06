@@ -4,7 +4,7 @@ Sharable Content Object Reference Model (SCORM) is a collection of standards tha
 
 Organizations who use the legacy Brightspace SCORM solution with the Brightspace Learning Repository can save a SCORM object in the Learning Object Repository (LOR) and share it out to multiple courses. This allows you to reuse SCORM objects in multiple locations while saving space in each course. 
 
-**Note**: LOR doesn’t support publishing SCORM 2004 content from your computer.
+<ins>Note:</ins> LOR doesn’t support publishing SCORM 2004 content from your computer.
 To use the new SCORM solution, you must enable the Content Service for your organization. If you don’t enable the Content Service, you can continue to use the legacy SCORM solution.
 
 When you use the new SCORM solution, you can still:
@@ -13,7 +13,7 @@ When you use the new SCORM solution, you can still:
 - Reuse SCORM objects in multiple locations to optimize space.
 - Use Import/Export/Copy Components to add a part or a whole course containing SCORM objects to another course in Brightspace.
 
-**Note**: The new and legacy SCORM solutions can be used at the same time. However, we recommend not using both solutions in the same course as it can cause confusion and be difficult to administer both. 
+<ins>Note:</ins> The new and legacy SCORM solutions can be used at the same time. However, we recommend not using both solutions in the same course as it can cause confusion and be difficult to administer both. 
 
 Brightspace is SCORM 1.2 and SCORM 2004 compliant. SCORM can be used with mobile devices if the SCORM object works on mobile devices. Access the non-mobile version of your site to make the best use of the SCORM object.
 
