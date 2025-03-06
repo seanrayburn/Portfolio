@@ -21,7 +21,9 @@ Style Guide: AP Style
 
 ## Movement: 
 1. Derive power by pressing your heels through the floor as you begin to straighten your legs to lift the bar.
-<ins>Cue</ins>: When you straighten your legs and upper body, consider them moving together as one unit, instead of as two individual movements.   
+
+<ins>Cue</ins>: When you straighten your legs and upper body, consider them moving together as one unit, instead of as two individual movements.
+
 2. Begin to exhale slowly when you have lifted the bar off the floor.
 3. Lock your knees at the top of the movement.
 
