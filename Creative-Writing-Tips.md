@@ -45,7 +45,7 @@ Use italics to denote titles or names of specific works, such as books, films, T
 - Example: _Conan O’Brien Needs a Friend_ (Podcast)
 
 
-<ins>Note</ins>, use quotations to indicate individual chapters, articles, song titles, or episodes.
+<ins>Note</ins>: use quotations to indicate individual chapters, articles, song titles, or episodes.
 
 - Example: The first song on David Bowie’s album _Lodger_ is “Fantastic Voyage”
 
@@ -71,7 +71,7 @@ Use italics to show emphasis or deeper meaning, internal monologue, or implied d
 
 
 ## Food for Thought
-- Ask yourself: Are you showing or telling? 
+- Ask yourself, are you _showing_ or _telling_? 
   - If you are telling the reader information that can be shown through sentence structure adjustments, italics, em dashes, or other tools, consider rephrasing to improve the cadence, nuance, and emotional impact of your story.
 
 
