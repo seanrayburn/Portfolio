@@ -1,7 +1,7 @@
 # My Edited Version of “Web Notifications”
 
 ## Web Notifications
-Notifications are a great way to know if you have new followers, replies, or messages. For new activity on your blog, a notification badge appears above the lightning “activity” icon in the menu of your dashboard. You can click the icon to open your [blog activity](https://www.tumblr.com/blog/invisiblevalet/activity) tab to view the latest notifications. 
+Notifications are a great way to know if you have new followers, replies, or messages. For new activity on your blog, a notification badge appears above the lightning “Activity” icon in the menu of your dashboard. You can click the icon to open your [blog activity](https://www.tumblr.com/blog/invisiblevalet/activity) tab to view the latest notifications. 
 
 If you have more than one blog, you can view each blog’s activity independently. To view recent activity for a blog: 
 1. Click “Account” in the sidebar menu. 
