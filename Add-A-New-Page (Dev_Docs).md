@@ -2,7 +2,7 @@
 
 ## Overview section
 
-*My version*
+**My version**
 
 Transport Layer Security (TLS), previously known as Secure Sockets Layer (SSL), is a security protocol that provides confidentiality and integrity for messages exchanged between a client and server and, most often, authentication of the server by the client.
 
@@ -20,7 +20,8 @@ During the TLS handshake, our service requests that you provide a certificate. Y
 4. We do not have a revocation notice for any certificate in the chain.
 5. If you provided any RDNs for the client certificate's Distinguished Name, they must match the client certificate. 
 
-*Original version*
+**Original version**
+
 Transport Layer Security (TLS), also known by its historical name of Secure Sockets Layer (SSL), is a security protocol that provides confidentiality and integrity for messages exchanged between a client and server and, in its most typical use-case, authentication of the server by the client.
 
 Mutual TLS authentication (mTLS), also known as Client Certificate Authentication (CCA), adds authentication of the client during the TLS handshake. This is done in a very similar way to which the client authenticates the server, using X509 certificates that are exchanged during the handshake. Once the handshake is completed your authenticated identity is checked to ensure it is authorized to make the request, the same as it would be for using our HTTP-based authentication mechanism.
@@ -35,13 +36,14 @@ During the TLS handshake, our service requests that you provide a certificate. Y
 5. If you have provided any RDNs for the client certificate's Distinguished Name, these much match.
 
 ## From Step 1 of the Integration Guide section
-*My version*
+**My version**
+
 Your local configuration must override the IP addresses for `try.access.worldpay.com` and `access.worldpay.com`. This points your traffic through the mTLS-secured access point to our services. When you don’t change IPs, you can’t provide identity or authentication data, resulting in a successful TLS handshake but a failed request.
 
 Each host environment has two IP addresses to provide a fault-isolation design that increases the availability of Access Worldpay using mTLS. The two IPs are hosted on and managed by two different sets of physical infrastructure. If one IP is unavailable, the other IP is available.
 
-*Original version*
+**Original version**
+
 Your local configuration must override the IP addresses for try.access.worldpay.com and access.worldpay.com. This is to point your traffic through the mTLS-secured access point to our services. Without changing IPs, the TLS handshake succeeds, but as you are providing no identity or authentication data, your request fails.
 
 Each environment has two IP addresses to provide a fault-isolating design that increases the availability of Access Worldpay via mTLS. The two IPs are hosted on and managed by two different sets of physical infrastructure. If one IP is unavailable then the other will be available.
-
