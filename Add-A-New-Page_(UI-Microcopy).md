@@ -40,5 +40,6 @@ What is your gender?
 
 What gender do you identify with?
 
-*Reasoning*
+**Reasoning**
+
 Original contained extra words that did not enhance the meaning. Asking someone their gender is the same as asking someone which gender they identify with, since gender is inherently an identity. There is also a risk in referring to gender only as something “you identify with” because that phrasing can be used as an invalidating microagression against transgender and gender-expansive people. 
