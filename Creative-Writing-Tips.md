@@ -17,7 +17,7 @@ Use a comma when there is a tag or responsive action following the dialogue.
 - Example: “I can’t go tonight<ins>,”</ins> he sighed. 
 
 
-<ins>Note</ins>: If dialogue relies on punctuation to add meaning or emphasis, such as a question mark or exclamation point, do not add an additional comma.
+Note: If dialogue relies question mark or exclamation point, do not add an additional comma after your closing quotes.
 
 - Example 1: “Are you going to dinner with us<ins>?”</ins> she asked. 
 
@@ -36,45 +36,48 @@ Indicate different speakers by using paragraph breaks. The following is an examp
 	“Leave me,” the old king whispered. We obeyed.」
 
 
-## Italics
+## Punctuating Titles
 
-Use italics to denote titles or names of specific works, such as books, films, TV shows, podcasts, magazines, albums, and other long-form works.
+Use italics to for titles or names of specific works, such as books, films, TV shows, podcasts, magazines, albums, and other long-form works.
 
 - Example: _The Magic Mountain_ by Thomas Mann (Novel)
 	
 - Example: _Conan O’Brien Needs a Friend_ (Podcast)
 
 
-<ins>Note</ins>: use quotations to indicate individual chapters, articles, song titles, or episodes.
+Use quotations to indicate individual chapters, articles, song titles, or episodes.
 
 - Example: The first song on David Bowie’s album _Lodger_ is “Fantastic Voyage”
 
 - Example: Season 1, Episode 5 of _Dexter_ is “Love American Style”
 
 
-Use italics to show emphasis or deeper meaning, internal monologue, or implied dialogue.
+## Italics
 
-- Example: That was supposed to be my drink
+Use italics to show emphasis, or note internal monologue or implied dialogue.
+
+- Example: "That was supposed to be _my_ drink." 
+
+Note: Don’t bold your text or use all-caps to emphasize text.
 
 
-<ins>Note</ins>: Don’t bold your text or use all-caps to emphasize text.
-
-
-## Parentheses vs. Em Dash
+## Parentheses versus Em Dash
 
 - Use an em dash to indicate a longer pause than a comma would indicate.
   - Consider an em dash a ½ note pause, where a comma would be a ¼ note pause.
 
 
-- Avoid parenthesis as possible because they generally indicate non-critical text.
-  - Instead, consider using em dashes to set aside non-critical text or a “side-note.”
+- Avoid parenthesis where possible, as they indicate non-critical text and readers are likely to pass over it. 
+  - Instead, consider using em dashes to set aside non-critical text or a “side-note” that stays within the body of the text. 
+
+Note: Screen readers may read em dashes as "dash dash", so be cognizant of this as it may cause disruption to flow and impede readability. 
 
 
 ## Food for Thought
 - Ask yourself, are you _showing_ or _telling_? 
-  - If you are telling the reader information that can be shown through sentence structure adjustments, italics, em dashes, or other tools, consider rephrasing to improve the cadence, nuance, and emotional impact of your story.
+  - If you are telling the reader information that can be shown through sentence structure adjustments, punctuation, or other tools, consider rephrasing to improve the flow, comprehension, and impact of your story.
 
 
-- Maintain a singular tense.
+- Always maintain a consistent tense!
 
 
