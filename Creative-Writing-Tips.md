@@ -7,17 +7,17 @@ Use a comma to introduce dialogue.
 - Example: He said<ins>, “</ins> I have two dogs.” 
 
 
-Add punctuation of the dialogue in the quotations.
+Add punctuation to the dialogue in the quotations.
 
 - Example: “What movie should we watch<ins>?”</ins> she asked.
 
 
-Use a comma when there is a tag or responsive action following the dialogue.
+Use a comma when there is a tag or a responsive action following the dialogue.
 
 - Example: “I can’t go tonight<ins>,”</ins> he sighed. 
 
 
-Note: If dialogue relies question mark or exclamation point, do not add an additional comma after your closing quotes.
+Note: If dialogue contains a question mark or an exclamation point, do not add an additional comma after your closing quotes.
 
 - Example 1: “Are you going to dinner with us<ins>?”</ins> she asked. 
 
@@ -29,7 +29,7 @@ If dialogue is separated by a tag or responsive action, use commas to note the e
 - Example: “I need to make dinner<ins>,”</ins> he said<ins>, “</ins>but I have to go grocery shopping first.”
 
 
-Indicate different speakers by using paragraph breaks. The following is an example from The Song of Achilles by Madeline Miller.
+Indicate different speakers by using paragraph breaks. The following is an example from _The Song of Achilles_ by Madeline Miller.
 
 - Example:「“I’m sorry,” Achilles said.
 
@@ -38,7 +38,7 @@ Indicate different speakers by using paragraph breaks. The following is an examp
 
 ## Punctuating Titles
 
-Use italics to for titles or names of specific works, such as books, films, TV shows, podcasts, magazines, albums, and other long-form works.
+Use italics for titles or names of specific works, such as books, films, TV shows, podcasts, magazines, albums, and other long-form works.
 
 - Example: _The Magic Mountain_ by Thomas Mann (Novel)
 	
@@ -67,10 +67,10 @@ Note: Don’t bold your text or use all-caps to emphasize text.
   - Consider an em dash a ½ note pause, where a comma would be a ¼ note pause.
 
 
-- Avoid parenthesis where possible, as they indicate non-critical text and readers are likely to pass over it. 
+- Avoid parentheses where possible, as they indicate non-critical text and readers are likely to pass over them. 
   - Instead, consider using em dashes to set aside non-critical text or a “side-note” that stays within the body of the text. 
 
-Note: Screen readers may read em dashes as "dash dash", so be cognizant of this as it may cause disruption to flow and impede readability. 
+Note: Screen readers may read em dashes as "dash dash", so be cognizant of this, as it may cause disruption to flow and impede readability. 
 
 
 ## Food for Thought
