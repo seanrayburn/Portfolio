@@ -47,9 +47,9 @@ Use italics for titles or names of specific works, such as books, films, TV show
 
 Use quotations to indicate individual chapters, articles, song titles, or episodes.
 
-- Example: The first song on David Bowie’s album _Lodger_ is “Fantastic Voyage”
+- Example: The first song on David Bowie’s album _Lodger_ (1979) is “Fantastic Voyage”.
 
-- Example: Season 1, Episode 5 of _Dexter_ is “Love American Style”
+- Example: Season 1, Episode 5 of _Dexter_ is titled “Love American Style”.
 
 
 ## Italics
@@ -58,7 +58,7 @@ Use italics to show emphasis, or note internal monologue or implied dialogue.
 
 - Example: "That was supposed to be _my_ drink." 
 
-Note: Don’t bold your text or use all-caps to emphasize text.
+Note: Don’t bold your text or use all-caps to emphasise text.
 
 
 ## Parentheses versus Em Dash
@@ -79,5 +79,3 @@ Note: Screen readers may read em dashes as "dash dash", so be cognizant of this,
 
 
 - Always maintain a consistent tense!
-
-
