@@ -40,7 +40,10 @@ Use quotations to indicate individual short-form works, such as chapters, articl
 
 ## General Tips
 💡 Ask yourself, “Am I showing or telling?” 
-Consider rephrasing, restructuring, or employing grammatical tools to enhance the flow, emphasise emotional impact, or create nuance where desired. 
+- Consider rephrasing, restructuring, or employing grammatical tools to enhance the flow, emphasise emotional impact, or create nuance where desired.
+
 💡 Read your work out loud to ensure it sounds the way you intend it to. 
+
 💡 Know your audience, and write to them. 
+
 💡 Maintain a singular tense!
