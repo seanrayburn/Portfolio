@@ -1,8 +1,8 @@
 # UX/UI Copy 
 
-As an avid user of technology, I come across UX/UI copy everyday. Good UX/UI content should be concise, clear, and useful. Here are a few examples of UX/UI copy I’ve seen and how I would improve them:
+As an avid user of technology, I come across UX/UI copy every day. Good UX/UI content should be concise, clear, and useful. Here are a few examples of UX/UI copy I’ve seen and how I would improve them:
 
-## UNIQLO Subscribtion Verification
+## UNIQLO Subscription Verification
 
 **My version**
 
