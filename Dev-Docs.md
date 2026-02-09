@@ -14,7 +14,7 @@ To use mTLS, you must:
 Note: The certificate must be signed by one of the issuer certificates that you've sent to us. You can additionally use an intermediate certificate signed by the issuer certificate.
 
 During the TLS handshake, our service requests that you provide a certificate. Your client sends us the certificate along with proof of possession of the private key. You may optionally include one intermediate certificate in the handshake. We then authenticate you based on five criteria:
-1. The time on our servers must be within the validity period of the client, optional intermediate, and issuer certificate.
+1. The time on our servers must be within the validity period of the client, optional intermediate, and issuer certificates.
 2. The signature of each certificate must be valid and the trust chain terminates with one of the issuer certificates that you previously provided to us.
 3. The proof of possession of the corresponding private key for the client certificate must be valid.
 4. We do not have a revocation notice for any certificate in the chain.
