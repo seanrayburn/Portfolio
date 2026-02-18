@@ -42,7 +42,7 @@
 
 # 
 
-1. # Revision history
+# Revision history
 
 | Version | Date | Updated By | Approved By | Details |
 | :---- | :---- | :---- | :---- | :---- |
