@@ -1,5 +1,5 @@
 # i-Connect Payroll Extract Specification User Guide
-## Edited for accessibility, plain language, and clarity by S Rayburn (12 Feb 2026)
+## Edited for accessibility, plain language, and clarity by S Rayburn (12 Feb 2026).
 ### [Original i-Connect Payroll Extract Specification User Guide](https://www.shropshirecountypensionfund.co.uk/media/hvgp3wxh/i-connect_payroll_extract_file_specification_2023.pdf)
 
 # Table of Contents
