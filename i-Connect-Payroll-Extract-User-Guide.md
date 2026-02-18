@@ -407,8 +407,8 @@ If you do decide to include opt-outs, the difference between the 'Opt Out Date' 
 You must remove the 'Opt Out Date' from Data Item 50 and insert an 'Opt In Date' in Data Item 51\. The 'Opt In Date' should remain on the payroll extract file each month.
 
 3. **How do I record service?** 
+
 Examples:  
-![][image1]
 
 4. **How do I record part-time hours for casual employees?**
 
