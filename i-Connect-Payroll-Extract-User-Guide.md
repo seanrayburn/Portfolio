@@ -2,47 +2,47 @@
 
 # Table of Contents
 
-[1\. Revision history	2](#revision-history)
+[1\. Revision history](#revision-history)
 
-[2\. Purpose of this guide	4](#purpose-of-this-guide)
+[2\. Purpose of this guide](#purpose-of-this-guide)
 
-[2.1. Further reading	4](#further-reading)
+[2.1. Further reading](#further-reading)
 
-[3\. Preparation	5](#preparation)
+[3\. Preparation](#preparation)
 
-[3.1. Record matching	5](#record-matching)
+[3.1. Record matching](#record-matching)
 
-[3.2. Unique payroll identifier	5](#unique-payroll-identifier)
+[3.2. Unique payroll identifier](#unique-payroll-identifier)
 
-[4\. Extract file creation preparation	7](#extract-file-creation-preparation)
+[4\. Extract file creation preparation](#extract-file-creation-preparation)
 
-[4.1. File format	7](#file-format)
+[4.1. File format](#file-format)
 
-[4.2. Header row	7](#header-row)
+[4.2. Header row](#header-row)
 
-[4.3. Duplicate records	8](#duplicate-records)
+[4.3. Duplicate records](#duplicate-records)
 
-[4.4. Other payroll extract file considerations	8](#other-payroll-extract-file-considerations)
+[4.4. Other payroll extract file considerations](#other-payroll-extract-file-considerations)
 
-[5\. Uploading data	9](#uploading-data)
+[5\. Uploading data](#uploading-data)
 
-[5.1. Preparing to upload data	9](#preparing-to-upload-data)
+[5.1. Preparing to upload data](#preparing-to-upload-data)
 
-[5.2. Preparing to upload data	9](#preparing-to-upload-data-1)
+[5.2. Preparing to upload data](#preparing-to-upload-data-1)
 
-[6\. i-Connect payroll extract file specification	10](#i-connect-payroll-extract-file-specification)
+[6\. i-Connect payroll extract file specification](#i-connect-payroll-extract-file-specification)
 
-[7\. Example payroll extract file	27](#example-payroll-extract-file)
+[7\. Example payroll extract file](#example-payroll-extract-file)
 
-[8\. Frequently asked questions (FAQs)	30](#frequently-asked-questions-\(faqs\))
+[8\. Frequently asked questions (FAQs)](#frequently-asked-questions-\(faqs\))
 
-[9\. About this version	34](#about-this-version)
+[9\. About this version](#about-this-version)
 
-[10\. Need more help?	35](#need-more-help?)
+[10\. Need more help?](#need-more-help-?)
 
 # 
 
-1. # Revision history {#revision-history}
+1. # Revision history
 
 | Version | Date | Updated By | Approved By | Details |
 | :---- | :---- | :---- | :---- | :---- |
@@ -60,15 +60,14 @@
 | 3.80 | 07/12/2024 | C Lewis | Unknown | Clarification on part-time hours effective date.  |
 | 3.90 | 12/02/2026 | S Rayburn |  | Accessibility and formatting issues addressed. |
 
-# 
 
-2. # Purpose of this guide {#purpose-of-this-guide}
+# Purpose of this guide
 
 This guide provides a comprehensive understanding of the i-Connect payroll extract file specification, including each of the data items that must be submitted to your administering authority every pay period. 
 
 **Note:** Data items are mandatory, conditional, or optional for i-Connect data processing. Your administering authority may require that some of the conditional or optional data items provided be mandatory. 
 
-1. ## Further reading {#further-reading}
+## Further reading 
 
 If you are an employer, refer to the [i-Connect User Guides for Employers](https://media.buckinghamshire.gov.uk/documents/i-connect-document-upload-guide.pdf) for more information about the i-Connect Service. 
 
@@ -82,17 +81,15 @@ If you are an administering authority, refer to the [i-Connect User Guides for E
 
 Please email [support@i-Connectdata.co.uk](mailto:support@i-Connectdata.co.uk) if you have not received copies of these guides. 
 
-# 
+# Preparation 
 
-3. # Preparation {#preparation}
-
-   1. ## Record matching {#record-matching}
+## Record matching
 
 i-Connect automatically matches each post on your payroll system to a corresponding record on your administering authority’s pensions administration system—known as ‘the target system’ in this document—when possible. 
 
 The matching process uses employees’ National Insurance numbers and in addition to a unique payroll identifier.
 
-2. ## Unique payroll identifier {#unique-payroll-identifier}
+## Unique payroll identifier
 
 A unique payroll identifier must be present for each payee/post on the payroll extract file. This key can be a combination of fields held on the payroll system (e.g., payroll reference, employee reference, and post number). There are three 12-character fields available on the payroll extract file to output the unique payroll identifier:
 
@@ -117,17 +114,16 @@ Each of the three payroll reference fields corresponds to a specific field on th
 
 **Note:** The selected matching method must be consistent for all records on the payroll extract file.
 
-4. # Extract file creation preparation {#extract-file-creation-preparation}
+# Extract file creation preparation
 
-   1. ##  File format {#file-format}
-
+##  File format
 All payroll extract files uploaded into i-Connect must be saved as comma-separated value (CSV) files. Files not in this format will be rejected during the upload process.
 
 Fields containing commas must be embedded within a set of double quotes (commonly referred to as ‘text qualifiers’) to maintain data integrity. For example, a data entry in Address Line 1 (Data Item 15\) containing a comma would be output as:
 
 "Dun Roamin, Dun Campin"
 
-2. ##  Header row {#header-row}
+##  Header row
 
 Each payroll extract file must have a header row to describe the i-Connect data items. i-Connect assumes the first row of a file is the header; failure to include a header row results in the first record in the file being omitted from processing.
 
@@ -136,11 +132,11 @@ NI\_NUMBER, PAY\_REF\_1, PAY\_REF\_2, PAY\_REF\_3, ADD\_LINE\_1, ADD\_LINE\_2, A
 
 **Note:** The column names do not have to be identical to those shown above, but the field ordering must match the order specified in Section 4. 
 
-3. ##  Duplicate records {#duplicate-records}
+##  Duplicate records
 
 All records on the i‑Connect payroll extract file must be unique. Files with records containing duplicate National Insurance Numbers and the unique payroll identifier will be rejected. 
 
-4. ##  Other payroll extract file considerations {#other-payroll-extract-file-considerations}
+##  Other payroll extract file considerations
 
 4.4.1 The order of the data items must match the order specified in the file layout.​  
 4.4.2 The payroll period end date (Data Item 23\) must be the same on all records.​  
@@ -150,9 +146,9 @@ All records on the i‑Connect payroll extract file must be unique. Files with r
 4.4.6 Part‑time hours must be pro‑rated for term‑time employees.​  
 4.4.7 Negative values are indicated by a minus “-” character at the beginning of the data field (e.g., \-115.64).
 
-5. # Uploading data {#uploading-data}
+# Uploading data
 
-   1. ## Preparing to upload data {#preparing-to-upload-data}
+## Preparing to upload data
 
 You must be able to answer “Yes” to the following questions before attempting to upload any data into i-Connect: 
 
@@ -163,7 +159,7 @@ You must be able to answer “Yes” to the following questions before attemptin
 
 If you answered “No” to any questions, please refer to the i-Connect User Guide for Employers.
 
-2. ## Preparing to upload data {#preparing-to-upload-data-1}
+## Preparing to upload data
 
 The following table provides approximate processing times for payroll extract files in i-Connect. The first stage, **File Upload/Employment Check**, checks the structure of the file, validates the data, and checks whether any payees have been deleted from the target system by the administering authority. The second stage, **Target System Update**, uploads the detected events to the administering authority’s target system.
 
@@ -178,8 +174,7 @@ The following table provides approximate processing times for payroll extract fi
 | 15,000 | 100 | 300 |
 | 20,000 | 120 | 400 |
 
-6. # i-Connect payroll extract file specification {#i-connect-payroll-extract-file-specification}
-
+# i-Connect payroll extract file specification
 | Item | Data Item |  | Description | Maximum Number of Characters | Mantatory / Optional |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **1** | NATIONAL INSURANCE NUMBER  |  | National Insurance Number of the employee. | 9 | **Mandatory** |
@@ -372,11 +367,7 @@ The following table provides approximate processing times for payroll extract fi
 | Example: | 100.50 | PAY PERIOD |  |  |  |
 | Notes:  | Please enter the pay period total for any additional pension contributions the employee is paying. Employee SCAPC contributions should be included, but please do not include any employer SPAPC contributions Enter only numbers (0-9) and a decimal point (.). **Leave blank or populate with zero values if null.** |  |  |  |  |
 
-# 
-
-# 
-
-7. # Example payroll extract file {#example-payroll-extract-file}
+# Example payroll extract file
 
 NI\_NUMBER,PAY\_REF\_1,PAY\_REF\_2,PAY\_REF\_3,ADD\_LINE\_1,ADD\_LINE\_2,ADD\_LINE\_3,ADD\_LINE\_4,ADD\_LINE\_5,POSTCODE,EMAIL\_ADDRESS,TELEPHONE\_NUMBER,MOBILE\_NUMBER,WORKS\_PLACE\_NAME,WORKS\_ADD\_LINE\_1,WORKS\_ADD\_LINE\_2,WORKS\_ADD\_LINE\_3,WORKS\_ADD\_LINE\_4,WORKS\_ADD\_LINE\_5,WORKS\_POSTCODE,WORKS\_EMAIL\_ADDRESS,DATE\_OF\_LEAVING,PAYROLL\_PERIOD\_END\_DATE,ADDITIONAL\_CONTRIBUTIONS\_1,ADDITIONAL\_CONTRIBUTIONS\_2,EMPLOYMENT\_BREAK\_START,EMPLOYMENT\_BREAK\_END,FILLER\_1,EMPLOYMENT\_BREAK\_REASON,SURNAME,FORENAMES,GENDER,DOB,MARITAL\_STATUS,TITLE,FILLER\_2,FILLER,ANNUAL\_PENSIONABLE\_SALARY,PENSIONABLE\_PAY,EFFECTIVE\_DATE,DATE\_JOINED\_PENSION\_SCHEME,JOB\_TITLE,PART\_TIME\_HOURS\_EFFECTIVE\_DATE,PART\_TIME\_HOURS,PART\_TIME\_INDICATOR,WHOLE\_TIME\_EQUIVALENT\_HOURS,EMPLOYEES\_MAIN\_SECTION\_CONTS,EMPLOYERS\_CONTS,SCHEME\_CONT\_RATE,OPT\_OUT\_DATE,OPT\_IN\_DATE,MAIN\_SECTION\_CUMULATIVE\_PEN\_PAY,5050\_SECTION\_CUMULATIVE\_PEN\_PAY,FTE\_FINAL\_PAY,CUMULATIVE\_EMPLOYEES\_MAIN\_SECTION\_SCHEME\_CONTS,CUMULATIVE\_EMPLOYERS\_SCHEME\_CONTS,REASON\_FOR\_LEAVING,CUMULATIVE\_SCAPCs,CUMULATIVE\_APCs,EMPLOYEES\_5050\_CONTS,CUMULATIVE\_EMPLOYEES\_5050\_CONTS,SCAPCs,APCs
 
@@ -400,9 +391,8 @@ BB000009A,200009,1,,81 Deansgate Lane,Timperley,Altrincham,Cheshire,England,WA15
 
 BB000010A,200010,1,,31 Bloomsbury Lane,Timperley,Altrincham,Cheshire,England,WA15 8CC,h.smith@homecall.co.uk,1612366598,,Outreach Unit,Timperley,Altrincham,Cheshire,,,WA15 3MJ,,31/05/2017,31/05/2017,45.12,,,,,,Smith,Harry,M,10/01/1961,M,Mr,,,12500.5,1041.71,01/04/2017,10/05/2010,29/04/1949,Director,10/05/2010,20,Y,40,57.29,143.23,5.5,,,2083.42,0,25001,114.58,286.46,Ill
 
-# 
 
-8. # Frequently asked questions (FAQs) {#frequently-asked-questions-(faqs)}
+# Frequently asked questions (FAQs) 
 
 Below is a list of common questions and answers. Please contact the i-Connect support desk if you have any additional questions or comments relating to this guide. 
 
@@ -417,7 +407,6 @@ If you do decide to include opt-outs, the difference between the 'Opt Out Date' 
 You must remove the 'Opt Out Date' from Data Item 50 and insert an 'Opt In Date' in Data Item 51\. The 'Opt In Date' should remain on the payroll extract file each month.
 
 3. **How do I record service?** 
-
 Examples:  
 ![][image1]
 
@@ -476,7 +465,7 @@ Leavers can remain on the payroll extract file indefinitely, although it is reco
 
 This should be included in pensionable pay (Data Item 39\) and the main and/or 50/50 section cumulative pay (Data Items 52 and 53).
 
-9. # About this version {#about-this-version}
+# About this version
 
 This user guide version makes the following updates: 
 
@@ -491,7 +480,7 @@ This user guide version makes the following updates:
 
 Sometimes we need to make changes to our specification due to circumstances outside of our control, such as legislation changes. If this happens, we will make sure we minimise disruption and give you plenty of time to start using the new payroll extract file specification.
 
-10. # Need more help? {#need-more-help?}
+# Need more help?
 
 If you need any further assistance, you can contact the i-Connect support desk by: 
 
