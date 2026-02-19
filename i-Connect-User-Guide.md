@@ -42,8 +42,6 @@
 
 [10\. Need more help?](#need-more-help-?)
 
-# 
-
 # Revision history
 
 | Version | Date | Updated By | Approved By | Details |
