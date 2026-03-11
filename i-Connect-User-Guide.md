@@ -175,17 +175,22 @@ The following table provides approximate processing times for payroll extract fi
 | 20,000 | 120 | 400 |
 
 # i-Connect payroll extract file specification
+
 | Item | Data Item |  | Description | Maximum Number of Characters | Mantatory / Optional |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **1** | NATIONAL INSURANCE NUMBER  |  | National Insurance Number of the employee. | 9 | **Mandatory** |
 | Example: | AB123456C |  |  |  |  |
-| Notes: | Please enter the employee’s NINo, which is used in conjunction with one or more of the payroll reference fields (Items 2-4) to identify the correct record on the administering authority’s target system. Please contact your administering authority if any of the employees do not have a NINo, as it is a mandatory field on the target system. **This data must be completed to process the data.**  |  |  |  |  |
+| Notes: | Please enter the employee’s NINo, which is used in conjunction with one or more of the payroll reference fields (Items 2-4) to identify the correct record on the administering authority’s target system. Please contact your administering authority if any of the employees do not have a NINo, as it is a mandatory field on the target system. 
+**This data must be completed to process the data.**  |  |  |  |  |
 | **2** | PAYROLL  REFERENCE 1 |  | An additional unique identifier for each post in your organisation. Generally, this is the employee’s payroll number with the current employer. | 12 | **Conditional\*** |
 | Example: | 134-0547 |  |  |  |  |
-| Notes: | Please enter a unique identifier to match the post to the correct target system record, such as a Payroll Reference Number. Contact your administering authority to confirm whether this unique identifier should be placed in Payroll Reference 1, Payroll Reference 2 or Payroll Reference 3\.  If this field is not used as a unique identifier, it can be used to store additional payroll identification information for new starters, such as Post or Contract Number. **\*Mandatory if the administering authority specifies this field as a unique identifier.**  |  |  |  |  |
+| Notes: | Please enter a unique identifier to match the post to the correct target system record, such as a Payroll Reference Number. Contact your administering authority to confirm whether this unique identifier should be placed in Payroll Reference 1, Payroll Reference 2 or Payroll Reference 3\. 
+If this field is not used as a unique identifier, it can be used to store additional payroll identification information for new starters, such as Post or Contract Number. **\*Mandatory if the administering authority specifies this field as a unique identifier.**  |  |  |  |  |
 | **3** | PAYROLL REFERENCE 2 |  | An additional unique identifier for each post in your organisation. Generally, this is the employee’s payroll number with the current employer. | 12 | **Conditional\*** |
 | Example: | TY0123456 |  |  |  |  |
-| Notes | Please enter a unique identifier to match the post to the correct target system record, such as a Payroll Reference Number. Contact your administering authority to confirm whether this unique identifier should be placed in Payroll Reference 1, Payroll Reference 2 or Payroll Reference 3\.  If this field is not used as a unique identifier, it can be used to store additional payroll identification information for new starters, such as Post or Contract Number. **\*Mandatory if the administering authority specifies this field as a unique identifier.** |  |  |  |  |
+| Notes | Please enter a unique identifier to match the post to the correct target system record, such as a Payroll Reference Number. Contact your administering authority to confirm whether this unique identifier should be placed in Payroll Reference 1, Payroll Reference 2 or Payroll Reference 3\. 
+If this field is not used as a unique identifier, it can be used to store additional payroll identification information for new starters, such as Post or Contract Number. 
+**\*Mandatory if the administering authority specifies this field as a unique identifier.** |  |  |  |  |
 | **4** | PAYROLL REFERENCE 3 |  | An additional unique identifier for each post in your organisation. Generally, this is the employee’s payroll number with the current employer. | 12 | **Conditional\*** |
 | Example: | 07 |  |  |  |  |
 | Notes: | Please enter a unique identifier to match the post to the correct target system record, such as a Payroll Reference Number. Contact your administering authority to confirm whether this unique identifier should be placed in Payroll Reference 1, Payroll Reference 2 or Payroll Reference 3\.  If this field is not used as a unique identifier, it can be used to store additional payroll identification information for new starters, such as Post or Contract Number. **\*Mandatory if the administering authority specifies this field as a unique identifier.**  |  |  |  |  |
