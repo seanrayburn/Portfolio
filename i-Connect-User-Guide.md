@@ -177,8 +177,6 @@ The following table provides approximate processing times for payroll extract fi
 # i-Connect payroll extract file specification
 
 | **Item** | **Data Item** | **Description** | **Maximum Number of Characters** | **Mantatory / Optional** |
-
-| :---- | :---- | :---- | :---- | :---- | :---- |
 | **1** | NATIONAL INSURANCE NUMBER  |  | National Insurance Number of the employee. | 9 | **Mandatory** |
 | Example: | AB123456C |  |  |  |  |
 | Notes: | Please enter the employee’s NINo, which is used in conjunction with one or more of the payroll reference fields (Items 2-4) to identify the correct record on the administering authority’s target system. Please contact your administering authority if any of the employees do not have a NINo, as it is a mandatory field on the target system. 
