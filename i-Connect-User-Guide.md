@@ -176,7 +176,7 @@ The following table provides approximate processing times for payroll extract fi
 
 # i-Connect payroll extract file specification
 
-| Item | Data Item |  | Description | Maximum Number of Characters | Mantatory / Optional |
+| Item | Data Item |  | Description | Maximum Number of Characters | Mantatory / Optional |  |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **1** | NATIONAL INSURANCE NUMBER  |  | National Insurance Number of the employee. | 9 | **Mandatory** |
 | Example: | AB123456C |  |  |  |  |
