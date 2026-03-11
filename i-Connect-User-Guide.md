@@ -1,6 +1,6 @@
 # i-Connect Payroll Extract Specification User Guide
-## Edited for accessibility, plain language, and clarity by S Rayburn (12 Feb 2026).
-### [Original i-Connect Payroll Extract Specification User Guide](https://www.shropshirecountypensionfund.co.uk/media/hvgp3wxh/i-connect_payroll_extract_file_specification_2023.pdf)
+Edited for accessibility, plain language, and clarity by S Rayburn (12 Feb 2026).
+## [Original i-Connect Payroll Extract Specification User Guide](https://www.shropshirecountypensionfund.co.uk/media/hvgp3wxh/i-connect_payroll_extract_file_specification_2023.pdf)
 
 # Table of Contents
 
@@ -176,7 +176,7 @@ The following table provides approximate processing times for payroll extract fi
 
 # i-Connect payroll extract file specification
 
-| Item | Data Item |  | Description | Maximum Number of Characters | Mantatory / Optional |  |
+| **Item** | **Data Item** | **Description** | **Maximum Number of Characters** | **Mantatory / Optional** |  |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **1** | NATIONAL INSURANCE NUMBER  |  | National Insurance Number of the employee. | 9 | **Mandatory** |
 | Example: | AB123456C |  |  |  |  |
