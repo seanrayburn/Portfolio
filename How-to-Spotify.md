@@ -6,7 +6,9 @@ Heywood house style guide (i.e., UI in bold, user-centred text in italics).
 ## Steps 
 1. Click the **Create** button in the top left corner of your homepage.
 2. Select **Playlist** from the drop-down menu.
+
 ![Screenshot of a Spotify homepage with red boxes around the Create button and Playlist selection in the drop-down menu.](CreateSC.jpg)
+
 3. To edit the playlist name, select the three-dot menu > **Edit details**.
 4. Click **Save**.
 5. Use the **Let’s find something for your playlist** search bar > locate a song > click **Add**. 
@@ -18,3 +20,4 @@ Heywood house style guide (i.e., UI in bold, user-centred text in italics).
 ## Need more help?
 - Visit [Spotify Support](https://support.spotify.com/uk/)
 - Ask the [Spotify Community](https://community.spotify.com/)
+![Screenshot of a Spotify homepage with red boxes around the Create button and Playlist selection in the drop-down menu.](CreateSC.jpg)
