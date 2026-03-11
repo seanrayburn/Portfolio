@@ -20,4 +20,3 @@ Heywood house style guide (i.e., UI in bold, user-centred text in italics).
 ## Need more help?
 - Visit [Spotify Support](https://support.spotify.com/uk/)
 - Ask the [Spotify Community](https://community.spotify.com/)
-![Screenshot of a Spotify homepage with red boxes around the Create button and Playlist selection in the drop-down menu.](CreateSC.jpg)
